@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SundarNagarkoti/SundarNagarkoti/master/name.svg" alt="Sundar Nagarkoti" />
+  <img src="https://raw.githubusercontent.com/martonlederer/SundarNagarkoti/master/name.svg" alt="Sundar Nagarkoti" />
 </h1>
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
