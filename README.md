@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
   <img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br></br>
 
 **languages and tools:**  
