@@ -6,13 +6,13 @@
 
 
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<p align="left"><a href="https://komarev.com/ghpvc/?username=Sundar-nagarkoti8&label=Profile%20views&color=dc143c"></p>
+<p align="left"><a href="https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=dc143c"></p>
 <a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
   <img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br></br>
 
-hi, i'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 **languages and tools:**  
