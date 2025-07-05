@@ -1,17 +1,25 @@
+<!-- Typing SVG Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Sundar+Nagarkoti;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+There!+👋;This+is+Sundar+Nagarkoti;Nice+to+meet+you!">
   </a>
 </h1>
 
+<!-- Wave emoji greeting -->
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<p align="left"><a href="https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=dc143c"></p>
-<a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
-</a>
-<br></br>
+<!-- Profile views badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views">
+</p>
 
-Hi, I'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a passionate self-taught web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+---
+
+Hi, I'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a passionate self-taught web developer and a software engineer from Nepal 🇳🇵.  
+My passion for software lies in dreaming up ideas and making them come true with elegant interfaces.  
+I take great care in the experience, architecture, and code quality of the things I build.
+
+---
 
 ## 🚀 About Me
 
@@ -29,7 +37,7 @@ Hi, I'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a pas
 
 ## 🛠️ My Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
@@ -44,26 +52,38 @@ Hi, I'm [Sundar Nagarkoti](https://sundar-nagarkoti.github.io/portfolio/), a pas
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sundar-nagarkoti&show_icons=true&theme=default&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sundar-nagarkoti&show_icons=true&theme=tokyonight&count_private=true" alt="Sundar's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-nagarkoti&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-nagarkoti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📊 GitHub Activity Graph
 
-> ✅ Make sure your commits use `sonu143nagarkoti@gmail.com`, and that it's verified in GitHub
+<!-- ✅ Make sure your commits use `sonu143nagarkoti@gmail.com`, and that it's verified in GitHub settings.-->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sundar-nagarkoti&theme=react-dark&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sundar-nagarkoti&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-nagarkoti-026972158/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sonu143nagarkoti@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sonu143nagarkoti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-Thanks for stopping by! 🚀  
-Let’s build something awesome together.  
+> Thanks for stopping by! 🚀  
+> Let’s build something awesome together.
