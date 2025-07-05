@@ -1,15 +1,18 @@
 <!-- Typing SVG Header -->
+<p align='center'>
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+There!+👋;This+is+Sundar+Nagarkoti;Nice+to+meet+you!">
   </a>
 </h1>
+</p>
 
 <!-- Wave emoji greeting -->
+<p align='center'>
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+</p>
 <!-- Profile views badge -->
-<p>
+<p align='center'>
   <img src="https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views">
 </p>
 
