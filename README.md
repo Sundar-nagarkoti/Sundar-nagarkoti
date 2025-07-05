@@ -1,11 +1,16 @@
-# 👋 Hello, I'm Sundar Nagarkoti
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Sundar+Nagarkoti;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=0e75b6&style=flat)
 
-Welcome to my GitHub!  
-I'm a backend developer from Nepal 🇳🇵, passionate about building powerful applications using **.NET**, **MySQL**, and **JavaScript**.
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<p align="left"><a href="https://komarev.com/ghpvc/?username=Sundar-nagarkoti&label=Profile%20views&color=dc143c"></p>
+<a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
+</a>
+<br></br>
 
----
 
 ## 🚀 About Me
 
