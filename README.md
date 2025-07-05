@@ -64,7 +64,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 ## 📊 GitHub Activity Graph
 
-> ✅ Make sure your commits use <code>sonu143nagarkoti@gmail.com</code>, and that it's verified in GitHub settings.
+<!-- ✅ Make sure your commits use <code>sonu143nagarkoti@gmail.com</code>, and that it's verified in GitHub settings.-->
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sundar-nagarkoti&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
