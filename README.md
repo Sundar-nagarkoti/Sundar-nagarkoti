@@ -24,4 +24,66 @@ I take great care in the experience, architecture, and code quality of the thing
 ## 🚀 About Me
 
 - 🔭 Currently building: **Scalable backend systems using .NET and MySQL**  
-- 🌱 Exploring: **API**
+- 🌱 Exploring: **API development, deployment, and backend architecture**  
+- 👯 Looking to collaborate on: **.NET-based full-stack projects**  
+- 💬 Ask me about: **.NET Core, SQL optimization, JS front-end integration**  
+- 📫 Email me at:  
+  - 📧 **sonu143nagarkoti@gmail.com** *(used for Git activity)*  
+  - 📧 **sundar143unagarkoti@gmail.com** *(secondary)*  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I love performance tuning SQL queries!
+
+---
+
+## 🛠️ My Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sundar-nagarkoti&show_icons=true&theme=tokyonight&count_private=true" alt="Sundar's GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-nagarkoti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+> ✅ Make sure your commits use <code>sonu143nagarkoti@gmail.com</code>, and that it's verified in GitHub settings.
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sundar-nagarkoti&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/sundar-nagarkoti-026972158/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sonu143nagarkoti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> Thanks for stopping by! 🚀  
+> Let’s build something awesome together.
